@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [TEG Monitor](https://tegmonitor.com.br)
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 - 📫 How to reach me: @JhonathanA96, @_jhonn
